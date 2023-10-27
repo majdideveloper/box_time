@@ -2,6 +2,7 @@ import 'dart:io';
 
 import 'package:box_time/models/boxtime_model.dart';
 import 'package:box_time/provider/app_provider.dart';
+import 'package:box_time/utils/colors.dart';
 import 'package:box_time/utils/helper_method.dart';
 import 'package:document_file_save_plus/document_file_save_plus.dart';
 import 'package:flutter/material.dart';
@@ -40,14 +41,26 @@ class PdfPreviewPage extends StatelessWidget {
         Positioned(
           right: 10.0,
           bottom: 100,
-          child: IconButton(
-              onPressed: () async {
-                await savePdf().then((_) => showAlertDialog(context));
-                Future.delayed(Duration(seconds: 2), () {
-                  Navigator.pop(context);
-                });
-              },
-              icon: Icon(Icons.save)),
+          child: Container(
+            decoration: BoxDecoration(
+              borderRadius:
+                  BorderRadius.circular(50.0), // Adjust the radius as needed
+              color: Colors.grey, // You can change the color to your preference
+            ),
+            child: IconButton(
+                tooltip: "register your Pdf",
+                onPressed: () async {
+                  await savePdf().then((_) => showAlertDialog(context));
+                  Future.delayed(const Duration(seconds: 2), () {
+                    Navigator.pop(context);
+                  });
+                },
+                icon: const Icon(
+                  Icons.save,
+                  color: Colors.black,
+                  size: 36,
+                )),
+          ),
         ),
       ]),
     );

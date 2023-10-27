@@ -119,16 +119,16 @@ class _ThirdScreenState extends State<ThirdScreen> {
                             },
                             icon: Icon(Icons.delete),
                           ),
-                          IconButton(
-                            onPressed: () {
-                              showEditBox(
-                                context,
-                                box: appProvider.listBoxTime[index],
-                                index: index,
-                              );
-                            },
-                            icon: Icon(Icons.edit),
-                          ),
+                          // IconButton(
+                          //   onPressed: () {
+                          //     showEditBox(
+                          //       context,
+                          //       box: appProvider.listBoxTime[index],
+                          //       index: index,
+                          //     );
+                          //   },
+                          //   icon: Icon(Icons.edit),
+                          // ),
                         ],
                       ),
                       Row(
