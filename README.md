@@ -1,19 +1,39 @@
-# box_time
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
 
-Time boxing is a time management technique where you allocate a specific time period to tasks, improving focus and productivity. It sets clear boundaries, encourages prioritization, and helps you track progress. This structured approach enhances efficiency and time management skills.
+# Box Time
+
+Discover a better way to manage your time and tasks with Box Time. Our three-step process empowers you to Brain Dump all your thoughts and to-dos, then Choose Top Priorities, and finally, easily Schedule your day. Create time-based PDFs to stay organized and in control. Streamline your daily routine, boost productivity, and make the most of your time with Box Time. Try it today!
+
+
+## Demo
+
+Insert gif or link to demo
+
+
+## Tech Stack
+
+**Client:** Flutter, Provider, 
+
+
+
+
+## Features
+
+- Light/dark mode toggle
+- Live previews
+- Fullscreen mode
+- Cross platform
+
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+## Authors
+
+- [@majdideveloper](https://github.com/majdideveloper)
+
+
