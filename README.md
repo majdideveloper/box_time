@@ -30,6 +30,7 @@ Insert gif or link to demo
 ## Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="assets/timebox.png" alt="Logo" width="200" height="200">
 
 
 ## Authors
