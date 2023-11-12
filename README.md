@@ -12,9 +12,11 @@
 
 Discover a better way to manage your time and tasks with Box Time. Our three-step process empowers you to Brain Dump all your thoughts and to-dos, then Choose Top Priorities, and finally, easily Schedule your day. Create time-based PDFs to stay organized and in control. Streamline your daily routine, boost productivity, and make the most of your time with Box Time. Try it today!
 
+<img src="assets/screenshot_boxtime.png" alt="Logo" > 
+
 
 ## Demo
-
+[Link App Play Store](https://play.google.com/store/apps/details?id=com.majdouch.boxtime)
 link Video demo Live: https://youtu.be/T_jIXrGWooQ
 
 
