@@ -1,18 +1,9 @@
 
 
- <style>
-        /* Center the image */
-        .center {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 50vh; /* Adjust this value as needed */
-        }
-    </style>
-<div class="center">
+<center>
 
 <img src="assets/Cover_Box_Time.png" alt="Logo" >    
-</div>
+</center>
 
 
 
@@ -33,13 +24,14 @@ link Video demo Live: https://youtu.be/T_jIXrGWooQ
 
 
 
-
-
-
-
 ## Screenshots
+<img src="assets/Screenshot_1.png" alt="Logo" height=500 width=250 >
+<img src="assets/Screenshot_2.png" alt="Logo" height=500 width=250 >
+<img src="assets/Screenshot_3.png" alt="Logo" height=500 width=250 >
+<img src="assets/Screenshot_4.png" alt="Logo" height=500 width=250 >
+<img src="assets/Screenshot_5.png" alt="Logo" height=500 width=250 >
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
 
 
 
